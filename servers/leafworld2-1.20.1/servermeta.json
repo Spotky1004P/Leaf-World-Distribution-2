@@ -2,8 +2,8 @@
   "$schema": "file:///D:/Launcher_Comm/Leaf-World-2/Leaf-World-Distribution-2/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "leafworld2 (Minecraft 1.20.1)",
-    "description": "leafworld2 Running Minecraft 1.20.1 (Forge v47.1.0)",
+    "name": "리프월드 서버",
+    "description": "1.20.1 (Forge v47.1.0)",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
     "address": "리프월드.메인.한국",
     "discord": {

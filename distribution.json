@@ -9,8 +9,8 @@
   "servers": [
     {
       "id": "leafworld2-1.20.1",
-      "name": "leafworld2 (Minecraft 1.20.1)",
-      "description": "leafworld2 Running Minecraft 1.20.1 (Forge v47.1.0)",
+      "name": "리프월드 서버",
+      "description": "1.20.1 (Forge v47.1.0)",
       "icon": null,
       "version": "1.0.0",
       "address": "리프월드.메인.한국",

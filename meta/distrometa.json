@@ -1,0 +1,11 @@
+{
+  "$schema": "file:///D:/Launcher_Comm/Leaf-World-2/Leaf-World-Distribution-2/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "rss": "<LINK TO RSS FEED>",
+    "discord": {
+      "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "smallImageText": "리프월드 서버 (1.20.1)",
+      "smallImageKey": "icon"
+    }
+  }
+}

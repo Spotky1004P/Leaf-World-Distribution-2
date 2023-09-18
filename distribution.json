@@ -681,6 +681,17 @@
             "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/TravelersBackpack-1.20.1-9.1.4.jar",
             "MD5": "a030bf5480c0edb10a03ef9b30a8b147"
           }
+        },
+        {
+          "id": "ComplementaryShaders_v4.7.2.zip",
+          "name": "ComplementaryShaders_v4.7.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3456306,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/files/shaderpacks/ComplementaryShaders_v4.7.2.zip",
+            "MD5": "9eab6a42fd4c81b8e0837aacab3f0435",
+            "path": "shaderpacks/ComplementaryShaders_v4.7.2.zip"
+          }
         }
       ]
     }

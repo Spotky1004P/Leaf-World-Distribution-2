@@ -683,6 +683,16 @@
           }
         },
         {
+          "id": "de.maxhenkel:voicechat:1.20.1-2.4.24@jar",
+          "name": "Simple Voice Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7650531,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.4.24.jar",
+            "MD5": "b360bd82a901ff808c31873f20db5908"
+          }
+        },
+        {
           "id": "ComplementaryShaders_v4.7.2.zip",
           "name": "ComplementaryShaders_v4.7.2.zip",
           "type": "File",

@@ -513,6 +513,16 @@
           }
         },
         {
+          "id": "xyz.vsngamer:elevatorid:1.20.1-1.8.15@jar",
+          "name": "Elevator Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 188110,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/elevatorid-1.20.1-1.8.15.jar",
+            "MD5": "1d6187576d2a139cf63423f79d4bba42"
+          }
+        },
+        {
           "id": "dev.tr7zw:entityculling:1.6.2@jar",
           "name": "EntityCulling",
           "type": "ForgeMod",

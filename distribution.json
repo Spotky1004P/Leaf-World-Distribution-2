@@ -503,6 +503,16 @@
           }
         },
         {
+          "id": "com.supermartijn642:connectedglass:1.1.7@jar",
+          "name": "Connected Glass",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 779079,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/connectedglass-1.1.7-forge-mc1.20.jar",
+            "MD5": "f4aea2a373b30c7c03cb6e950abeec3f"
+          }
+        },
+        {
           "id": "lekavar.lma:drinkbeer:1.0.4@jar",
           "name": "Drink Beer Refill",
           "type": "ForgeMod",
@@ -670,6 +680,16 @@
             "size": 110583,
             "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/starlight-1.1.2forge.1cda73c.jar",
             "MD5": "da99a054428fb62342b6767b993c4c8d"
+          }
+        },
+        {
+          "id": "com.supermartijn642.core:supermartijn642corelib:1.1.12a@jar",
+          "name": "SuperMartijn642's Core Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 490435,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/supermartijn642corelib-1.1.12a-forge-mc1.20.jar",
+            "MD5": "5c0970b3e4fc6329308994553426bf9d"
           }
         },
         {

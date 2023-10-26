@@ -433,16 +433,6 @@
           ]
         },
         {
-          "id": "juuxel.adorn.platform:adorn:5.0.0+1.20.1@jar",
-          "name": "Adorn",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4125415,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/Adorn-5.0.0+1.20.1-forge.jar",
-            "MD5": "6ff20c598c8470ab846de210b46bdc20"
-          }
-        },
-        {
           "id": "me.drex:antixray:1.3.1@jar",
           "name": "AntiXray",
           "type": "ForgeMod",

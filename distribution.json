@@ -433,56 +433,6 @@
           ]
         },
         {
-          "id": "me.drex:antixray:1.3.1@jar",
-          "name": "AntiXray",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 107144,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/anti-xray-1.3.1-Forge-1.20.1.jar",
-            "MD5": "63df14590145166e452ab2c6ac7bba2d"
-          }
-        },
-        {
-          "id": "de.maxhenkel:camera:1.20.1-1.0.5@jar",
-          "name": "Camera Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 294657,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/camera-1.20.1-1.0.5.jar",
-            "MD5": "31e878d9be4c830529e336a932b17597"
-          }
-        },
-        {
-          "id": "com.abdelaziz:canary:0.2.7@jar",
-          "name": "Canary",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 431313,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/canary-mc1.20.1-0.2.7.jar",
-            "MD5": "b34dd200e9e18591824a3d4e46546df4"
-          }
-        },
-        {
-          "id": "me.shedaniel.clothconfig:cloth_config:11.1.106@jar",
-          "name": "Cloth Config v10 API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1168375,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/cloth-config-11.1.106-forge.jar",
-            "MD5": "17794d377921e9cd96b30250a7b13156"
-          }
-        },
-        {
-          "id": "net.mcreator.clutteredmod:luphieclutteredmod:2.1@jar",
-          "name": "Cluttered",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6002846,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/cluttered-2.1-1.20.1.jar",
-            "MD5": "359422bfdb492eada7067f41db746cff"
-          }
-        },
-        {
           "id": "jp.axer.cocoainput.loader:cocoainput:4.3.1-EXPERIMENTAL@jar",
           "name": "CocoaInput",
           "type": "ForgeMod",
@@ -493,63 +443,23 @@
           }
         },
         {
-          "id": "com.supermartijn642:connectedglass:1.1.7@jar",
-          "name": "Connected Glass",
+          "id": "dlovin.inventoryhud:inventoryhud:3.4.18@jar",
+          "name": "Inventory HUD+(Forge edition)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 779079,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/connectedglass-1.1.7-forge-mc1.20.jar",
-            "MD5": "f4aea2a373b30c7c03cb6e950abeec3f"
+            "size": 223156,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/invhud.forge.1.20.1-3.4.18.jar",
+            "MD5": "8a666a10eb224ca3d9e7b221ba6784ee"
           }
         },
         {
-          "id": "lekavar.lma:drinkbeer:1.0.4@jar",
-          "name": "Drink Beer Refill",
+          "id": "snownee.jade:jade:11.5.1@jar",
+          "name": "Jade",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1519040,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/drinkbeer-refill-1.20.1-1.0.4.jar",
-            "MD5": "47b7a77c761141f0c739db32bcf70c45"
-          }
-        },
-        {
-          "id": "dev.tr7zw:entityculling:1.6.2@jar",
-          "name": "EntityCulling",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 60489,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/entityculling-forge-1.6.2-mc1.20.jar",
-            "MD5": "70a8664d4f7b153cdc92557d50e6bf35"
-          }
-        },
-        {
-          "id": "net.olafski:fastleafdecay:31@jar",
-          "name": "Fast Leaf Decay",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 9833,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/FastLeafDecay-31.jar",
-            "MD5": "f9962d78568b9f71b70916238253d33c"
-          }
-        },
-        {
-          "id": "malte0811.ferritecore:ferritecore:6.0.0@jar",
-          "name": "Ferrite Core",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 122786,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/ferritecore-6.0.0-forge.jar",
-            "MD5": "206a75b7b85d5e4f93b2e9ba5e12bb3d"
-          }
-        },
-        {
-          "id": "forge.net.raphimc:immediatelyfast:1.2.1+1.20.1@jar",
-          "name": "ImmediatelyFast",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 619352,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/ImmediatelyFast-1.2.1+1.20.1.jar",
-            "MD5": "b76cc8883623fa074c2eb6f51e233831"
+            "size": 512370,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/Jade-1.20.1-forge-11.5.1.jar",
+            "MD5": "babcbc99c457f7fcf5cf4e2c525e8f25"
           }
         },
         {
@@ -573,133 +483,33 @@
           }
         },
         {
-          "id": "generated.forgemod:kotlinforforge:4.4.0-all@jar",
-          "name": "Kotlinforforge",
+          "id": "com.zephaniahnoah:shulkertooltip:1.13@jar",
+          "name": "Shulker Tooltip",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7598082,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/kotlinforforge-4.4.0-all.jar",
-            "MD5": "de59abb1cfcf3d07874819e8b888bca0"
+            "size": 11797,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/ShulkerTooltip-1.13.jar",
+            "MD5": "421c881313263fc5c5d861b0f9989762"
           }
         },
         {
-          "id": "ca.fxco:memoryleakfix:1.1.2@jar",
-          "name": "Memory Leak Fix",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 158689,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/memoryleakfix-forge-1.17+-1.1.2.jar",
-            "MD5": "ed20eb690105062557e29921eccd89a1"
-          }
-        },
-        {
-          "id": "com.github.nyuppo:moremobvariants:1.2.2@jar",
-          "name": "More Mob Variants",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 188456,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/moremobvariants-forge+1.20-1.2.2.jar",
-            "MD5": "91c2907eb57114ed6af13bb20569ba02"
-          }
-        },
-        {
-          "id": "net.stardustlabs:nullscape:1.2.2@jar",
-          "name": "Nullscape",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 367718,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/Nullscape_1.20.1_v1.2.2.jar",
-            "MD5": "5145443e9985fb6384294ca35bf2e371"
-          }
-        },
-        {
-          "id": "net.coderbot.iris:oculus:1.6.4@jar",
-          "name": "Oculus",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2849391,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/oculus-mc1.20-1.6.4.jar",
-            "MD5": "5a5931227b842d89f2ace93625b22739"
-          }
-        },
-        {
-          "id": "com.tiviacz:pizzacraft:7.0.7@jar",
-          "name": "PizzaCraft",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 524157,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/PizzaCraft-1.20.1-7.0.7.jar",
-            "MD5": "c9038a16d38450caecad5b6d912d8802"
-          }
-        },
-        {
-          "id": "net.regions_unexplored:regions_unexplored:0.4.2@jar",
-          "name": "Regions Unexplored",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5442313,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/RegionsUnexploredForge-0.4.21.20.1.jar",
-            "MD5": "15e63dbcb351eeb3887e48d90cbce169"
-          }
-        },
-        {
-          "id": "me.jellysquid.mods.sodium.client:rubidium:0.6.5@jar",
-          "name": "Rubidium",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 605877,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/rubidium-0.6.5.jar",
-            "MD5": "a452efa401ac9ec14d7232243ee4f3fd"
-          }
-        },
-        {
-          "id": "ca.spottedleaf:starlight:1.1.2+forge.1cda73c@jar",
-          "name": "Starlight",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 110583,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/starlight-1.1.2forge.1cda73c.jar",
-            "MD5": "da99a054428fb62342b6767b993c4c8d"
-          }
-        },
-        {
-          "id": "com.supermartijn642.core:supermartijn642corelib:1.1.12a@jar",
-          "name": "SuperMartijn642's Core Lib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 490435,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/supermartijn642corelib-1.1.12a-forge-mc1.20.jar",
-            "MD5": "5c0970b3e4fc6329308994553426bf9d"
-          }
-        },
-        {
-          "id": "terrablender.core:terrablender:3.0.0.167@jar",
-          "name": "TerraBlender",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 105367,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/TerraBlender-forge-1.20.1-3.0.0.167.jar",
-            "MD5": "e19f6c15c66b87dc0d2b3192749aebb2"
-          }
-        },
-        {
-          "id": "com.tiviacz:travelersbackpack:9.1.4@jar",
-          "name": "Traveler's Backpack",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 847770,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/TravelersBackpack-1.20.1-9.1.4.jar",
-            "MD5": "a030bf5480c0edb10a03ef9b30a8b147"
-          }
-        },
-        {
-          "id": "de.maxhenkel:voicechat:1.20.1-2.4.24@jar",
+          "id": "de.maxhenkel:voicechat:1.20.1-2.4.28@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7650531,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.4.24.jar",
-            "MD5": "b360bd82a901ff808c31873f20db5908"
+            "size": 7654111,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.4.28.jar",
+            "MD5": "112c51d3f202e40a06cd8bbcc71693c8"
+          }
+        },
+        {
+          "id": "generated.library:OptiFine_1.20.1_HD_U_I6_pre6_MOD:0.0.0@jar",
+          "name": "OptiFine_1.20.1_HD_U_I6_pre6_MOD",
+          "type": "Library",
+          "artifact": {
+            "size": 6638610,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6_pre6_MOD.jar",
+            "MD5": "6ecf3cd3fcf7a01c0bd839272855ec7a"
           }
         },
         {

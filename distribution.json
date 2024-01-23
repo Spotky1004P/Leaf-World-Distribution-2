@@ -8,146 +8,146 @@
   },
   "servers": [
     {
-      "id": "leafworld2-1.20.1",
+      "id": "leafworld2-1.19.2",
       "name": "리프월드 서버",
-      "description": "1.20.1 (Forge v47.1.0)",
+      "description": "1.19.2 (Forge v43.3.2)",
       "icon": "https://cdn.discordapp.com/attachments/1119969183552253982/1153641270007300126/dad.png",
-      "version": "1.0.1",
+      "version": "1.0.0",
       "address": "leafworld.kr",
-      "minecraftVersion": "1.20.1",
+      "minecraftVersion": "1.19.2",
       "discord": {
-        "shortId": "리프월드 서버 (1.20.1)",
-        "largeImageText": "리프월드 서버 (1.20.1)",
+        "shortId": "리프월드 서버 (1.19.2)",
+        "largeImageText": "리프월드 서버 (1.19.2)",
         "largeImageKey": "icon"
       },
       "mainServer": true,
       "autoconnect": true,
       "modules": [
         {
-          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.1.0",
+          "id": "net.minecraftforge:lowcodelanguage:1.19.2-43.3.2",
           "name": "Minecraft Forge (lowcodelanguage)",
           "type": "ForgeHosted",
           "classpath": true,
           "artifact": {
-            "size": 7399,
-            "MD5": "1251033d67a5318749a878b48f7d0d67",
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.1.0/lowcodelanguage-1.20.1-47.1.0.jar"
+            "size": 7374,
+            "MD5": "9acb2bf290f7b073d5773eee9c2a5d1d",
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/lowcodelanguage/1.19.2-43.3.2/lowcodelanguage-1.19.2-43.3.2.jar"
           },
           "subModules": [
             {
-              "id": "1.20.1-47.1.0",
+              "id": "1.19.2-43.3.2",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 16543,
-                "MD5": "5d4418ab2506cf5633992d4a41d104af",
-                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/versions/1.20.1-forge-47.1.0/1.20.1-forge-47.1.0.json"
+                "size": 15497,
+                "MD5": "c7055912c02df97c506e4b130c8a567b",
+                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/versions/1.19.2-forge-43.3.2/1.19.2-forge-43.3.2.json"
               }
             },
             {
-              "id": "net.minecraftforge:fmlcore:1.20.1-47.1.0",
+              "id": "net.minecraftforge:fmlcore:1.19.2-43.3.2",
               "name": "Minecraft Forge (fmlcore)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 117592,
-                "MD5": "6230224d033d21839d445b9bb970fee6",
-                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.1.0/fmlcore-1.20.1-47.1.0.jar"
+                "size": 112530,
+                "MD5": "9ed16dce3b9df354ecaabbb05ddad624",
+                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/fmlcore/1.19.2-43.3.2/fmlcore-1.19.2-43.3.2.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.1.0",
+              "id": "net.minecraftforge:javafmllanguage:1.19.2-43.3.2",
               "name": "Minecraft Forge (javafmllanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 16373,
-                "MD5": "8d75c6668642498bb081fd64fe4a5cf8",
-                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.1.0/javafmllanguage-1.20.1-47.1.0.jar"
+                "size": 16491,
+                "MD5": "feecde40302bba3acee4fa37f3468032",
+                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/javafmllanguage/1.19.2-43.3.2/javafmllanguage-1.19.2-43.3.2.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:mclanguage:1.20.1-47.1.0",
+              "id": "net.minecraftforge:mclanguage:1.19.2-43.3.2",
               "name": "Minecraft Forge (mclanguage)",
               "type": "Library",
               "classpath": true,
               "artifact": {
-                "size": 4999,
-                "MD5": "d38a188dac1de4338c93e668d46d016a",
-                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.1.0/mclanguage-1.20.1-47.1.0.jar"
+                "size": 4983,
+                "MD5": "6722c8bdf74082eb9a7a9ee36b0105bc",
+                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/mclanguage/1.19.2-43.3.2/mclanguage-1.19.2-43.3.2.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.1.0:universal",
+              "id": "net.minecraftforge:forge:1.19.2-43.3.2:universal",
               "name": "Minecraft Forge (universal jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 2629691,
-                "MD5": "b1c60b6e14ea96af1342572b05ba1f2b",
-                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/forge/1.20.1-47.1.0/forge-1.20.1-47.1.0-universal.jar"
+                "size": 2638873,
+                "MD5": "b4cce37975e63ee1e677750c75e064bb",
+                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/forge/1.19.2-43.3.2/forge-1.19.2-43.3.2-universal.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraftforge:forge:1.20.1-47.1.0:client",
+              "id": "net.minecraftforge:forge:1.19.2-43.3.2:client",
               "name": "Minecraft Forge (client jar)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 4733836,
-                "MD5": "6c22dbf65ea314ec0aa702ac28483217",
-                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/forge/1.20.1-47.1.0/forge-1.20.1-47.1.0-client.jar"
+                "size": 5417571,
+                "MD5": "3fd51c98b49149e573df70ac94ee206e",
+                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/forge/1.19.2-43.3.2/forge-1.19.2-43.3.2-client.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraft:client:1.20.1-20230612.114412:srg",
+              "id": "net.minecraft:client:1.19.2-20220805.130853:srg",
               "name": "Minecraft Forge (client srg)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 18842082,
-                "MD5": "8bfacfba4f54cda741019756165c5ecf",
-                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+                "size": 17332865,
+                "MD5": "70476cb0e2de11b97d913169c3b9d5a8",
+                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-srg.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraft:client:1.20.1-20230612.114412:slim",
+              "id": "net.minecraft:client:1.19.2-20220805.130853:slim",
               "name": "Minecraft Forge (client slim)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 12592249,
-                "MD5": "28edebec7b5a007bc9961ee9bab4d764",
-                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+                "size": 11637719,
+                "MD5": "7ae1ac1daf86584f93ae83dd916d3bdb",
+                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-slim.jar"
               },
               "subModules": []
             },
             {
-              "id": "net.minecraft:client:1.20.1-20230612.114412:extra",
+              "id": "net.minecraft:client:1.19.2-20220805.130853:extra",
               "name": "Minecraft Forge (client extra)",
               "type": "Library",
               "classpath": false,
               "artifact": {
-                "size": 10436626,
-                "MD5": "da6bb1a2c23108392fd6c103da40867c",
-                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+                "size": 10007043,
+                "MD5": "3014cfce92de3aff55cc50908a510051",
+                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraft/client/1.19.2-20220805.130853/client-1.19.2-20220805.130853-extra.jar"
               },
               "subModules": []
             },
             {
-              "id": "cpw.mods:securejarhandler:2.1.10",
+              "id": "cpw.mods:securejarhandler:2.1.4",
               "name": "Minecraft Forge (securejarhandler)",
               "type": "Library",
               "artifact": {
-                "size": 88749,
-                "MD5": "d9ff48d1c68388270388b803fa42611e",
-                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+                "size": 87315,
+                "MD5": "b49ceccef2c091769f134c47c108cb8b",
+                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/cpw/mods/securejarhandler/2.1.4/securejarhandler-2.1.4.jar"
               }
             },
             {
@@ -221,23 +221,23 @@
               }
             },
             {
-              "id": "net.minecraftforge:eventbus:6.0.5",
+              "id": "net.minecraftforge:eventbus:6.0.3",
               "name": "Minecraft Forge (eventbus)",
               "type": "Library",
               "artifact": {
-                "size": 53985,
-                "MD5": "2a6245210b446b2144071e71ca13432b",
-                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+                "size": 52624,
+                "MD5": "7c93693a70962a1c1893e3c058dca5cf",
+                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/eventbus/6.0.3/eventbus-6.0.3.jar"
               }
             },
             {
-              "id": "net.minecraftforge:forgespi:7.0.1",
+              "id": "net.minecraftforge:forgespi:6.0.0",
               "name": "Minecraft Forge (forgespi)",
               "type": "Library",
               "artifact": {
-                "size": 29831,
-                "MD5": "bd34d20287dc95201fe9475a8bbc2540",
-                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+                "size": 32714,
+                "MD5": "8c04b8c26ac1d55c281bfeaa71731414",
+                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/forgespi/6.0.0/forgespi-6.0.0.jar"
               }
             },
             {
@@ -251,13 +251,13 @@
               }
             },
             {
-              "id": "cpw.mods:modlauncher:10.0.9",
+              "id": "cpw.mods:modlauncher:10.0.8",
               "name": "Minecraft Forge (modlauncher)",
               "type": "Library",
               "artifact": {
-                "size": 130343,
-                "MD5": "07507d18d72661f8ae6a5da75bbf35be",
-                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+                "size": 130263,
+                "MD5": "3e171edcc29e762d2ecafffabb9e9341",
+                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/cpw/mods/modlauncher/10.0.8/modlauncher-10.0.8.jar"
               }
             },
             {
@@ -268,16 +268,6 @@
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
                 "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:mergetool:1.1.5:api",
-              "name": "Minecraft Forge (mergetool)",
-              "type": "Library",
-              "artifact": {
-                "size": 2572,
-                "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
-                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
               }
             },
             {
@@ -311,13 +301,13 @@
               }
             },
             {
-              "id": "net.jodah:typetools:0.6.3",
+              "id": "net.jodah:typetools:0.8.3",
               "name": "Minecraft Forge (typetools)",
               "type": "Library",
               "artifact": {
-                "size": 18281,
-                "MD5": "d4a375bf382f726cf1a650ccb38a736c",
-                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+                "size": 15425,
+                "MD5": "ee4596e1413cc1a5e080c971d6064753",
+                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
               }
             },
             {
@@ -371,23 +361,23 @@
               }
             },
             {
-              "id": "net.minecraftforge:JarJarSelector:0.3.19",
+              "id": "net.minecraftforge:JarJarSelector:0.3.16",
               "name": "Minecraft Forge (JarJarSelector)",
               "type": "Library",
               "artifact": {
                 "size": 17374,
-                "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
-                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+                "MD5": "5e859d6320cb16055febaedacb8b9806",
+                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/JarJarSelector/0.3.16/JarJarSelector-0.3.16.jar"
               }
             },
             {
-              "id": "net.minecraftforge:JarJarMetadata:0.3.19",
+              "id": "net.minecraftforge:JarJarMetadata:0.3.16",
               "name": "Minecraft Forge (JarJarMetadata)",
               "type": "Library",
               "artifact": {
-                "size": 15895,
-                "MD5": "9633546d299d4282ca68d10582be1c8f",
-                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+                "size": 15242,
+                "MD5": "332b118877d33c715f3ee67b75bffdd7",
+                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/JarJarMetadata/0.3.16/JarJarMetadata-0.3.16.jar"
               }
             },
             {
@@ -401,126 +391,525 @@
               }
             },
             {
-              "id": "net.minecraftforge:JarJarFileSystems:0.3.19",
+              "id": "net.minecraftforge:JarJarFileSystems:0.3.16",
               "name": "Minecraft Forge (JarJarFileSystems)",
               "type": "Library",
               "artifact": {
-                "size": 32195,
-                "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
-                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+                "size": 32052,
+                "MD5": "f4efd51f520cb4c98483c040bdc58aab",
+                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.16/JarJarFileSystems-0.3.16.jar"
               }
             },
             {
-              "id": "net.minecraftforge:fmlloader:1.20.1-47.1.0",
+              "id": "net.minecraftforge:fmlloader:1.19.2-43.3.2",
               "name": "Minecraft Forge (fmlloader)",
               "type": "Library",
               "artifact": {
-                "size": 264248,
-                "MD5": "58b14137ebedaae72c5e8dc435950133",
-                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.1.0/fmlloader-1.20.1-47.1.0.jar"
-              }
-            },
-            {
-              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.1.0",
-              "name": "Minecraft Forge (fmlearlydisplay)",
-              "type": "Library",
-              "artifact": {
-                "size": 3690963,
-                "MD5": "314f50d25a0c30ebf56b2d7291d1f940",
-                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.1.0/fmlearlydisplay-1.20.1-47.1.0.jar"
+                "size": 261142,
+                "MD5": "6593425f90a535819176d6438036790e",
+                "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/repo/lib/net/minecraftforge/fmlloader/1.19.2-43.3.2/fmlloader-1.19.2-43.3.2.jar"
               }
             }
           ]
         },
         {
-          "id": "jp.axer.cocoainput.loader:cocoainput:4.3.1-EXPERIMENTAL@jar",
+          "id": "me.drex:antixray:1.3.0@jar",
+          "name": "AntiXray",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 106430,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/anti-xray-1.3.0-Forge-1.19.2.jar",
+            "MD5": "fbf037bec9c0e9a539a8fe18ab0a7b6c"
+          }
+        },
+        {
+          "id": "moe.plushie.armourers_workshop.init.platform:armourers_workshop:2.0.11@jar",
+          "name": "Armourer's Workshop",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3536944,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/armourersworkshop-forge-1.19.2-2.0.11.jar",
+            "MD5": "88a6e6410ac891e136dadae53426f6f9"
+          }
+        },
+        {
+          "id": "io.github.foundationgames:automobility:0.4.2+1.19.2-forge@jar",
+          "name": "Automobility",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1051920,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/automobility-0.4.2+1.19.2-forge.jar",
+            "MD5": "5a49f58e47a5b3339a0e0b51f657b4fe"
+          }
+        },
+        {
+          "id": "biomesoplenty.core:biomesoplenty:17.1.2.544@jar",
+          "name": "Biomes O' Plenty",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21401992,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/BiomesOPlenty-1.19.2-17.1.2.544.jar",
+            "MD5": "1c0301cc21c7d9a3b298da66826c7cac"
+          }
+        },
+        {
+          "id": "de.maxhenkel:camera:1.19.2-1.0.6@jar",
+          "name": "Camera Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 294851,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/camera-1.19.2-1.0.6.jar",
+            "MD5": "1210d32ee2fb68c1adeb836abc202acb"
+          }
+        },
+        {
+          "id": "com.mrcrayfish.furniture:cfm:7.0.0-pre35@jar",
+          "name": "MrCrayfish's Furniture Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2209834,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/cfm-7.0.0-pre35-1.19.2.jar",
+            "MD5": "cd3ceae9615012f62d84fa1af860a1b0"
+          }
+        },
+        {
+          "id": "codechicken.chunkloader:chickenchunks:2.9.4.97@jar",
+          "name": "ChickenChunks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 108326,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/ChickenChunks-1.19.2-2.9.4.97-universal.jar",
+            "MD5": "78af53659ad810d353fa4eae45505eac"
+          }
+        },
+        {
+          "id": "jp.axer.cocoainput.loader:cocoainput:4.1.2-EXPERIMENTAL@jar",
           "name": "CocoaInput",
           "type": "ForgeMod",
           "artifact": {
-            "size": 135260,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/CocoaInput-1.20.1-forge-4.3.1-EXPERIMENTAL.jar",
-            "MD5": "02eae55ea724bea7dc53cea1c53380ae"
+            "size": 201240,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/CocoaInput-1.19.2-forge-4.1.2-EXPERIMENTAL.jar",
+            "MD5": "c49c6b078b602921c761f0ec47f7d304"
           }
         },
         {
-          "id": "dlovin.inventoryhud:inventoryhud:3.4.18@jar",
+          "id": "codechicken.lib:codechickenlib:4.3.2.490@jar",
+          "name": "CodeChicken Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1017649,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/CodeChickenLib-1.19.2-4.3.2.490-universal.jar",
+            "MD5": "7d5db1ae74e0f141bc70dd6ba6b39d85"
+          }
+        },
+        {
+          "id": "net.aurelj:dungeons_arise:2.1.56-1.19.2@jar",
+          "name": "When Dungeons Arise",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7373714,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/DungeonsArise-1.19.2-2.1.56-beta.jar",
+            "MD5": "b51541a7529ae54a665acc7b29b7b57a"
+          }
+        },
+        {
+          "id": "samebutdifferent.ecologics:ecologics:2.1.11@jar",
+          "name": "Ecologics",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1811681,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/ecologics-forge-1.19.2-2.1.11.jar",
+            "MD5": "af3ed935f0785beae4ab91065efc4a68"
+          }
+        },
+        {
+          "id": "xyz.vsngamer:elevatorid:1.19.2-1.8.10@jar",
+          "name": "Elevator Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 188388,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/elevatorid-1.19.2-1.8.10.jar",
+            "MD5": "07904dcbed1cb6585ecd38dac1a6f410"
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.6.1@jar",
+          "name": "EntityCulling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 60289,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/entityculling-forge-1.6.1-mc1.19.2.jar",
+            "MD5": "094f1d0f3aad06ee4c5bb0c3f8a208d5"
+          }
+        },
+        {
+          "id": "yesman.epicfight.main:epicfight:19.5.18@jar",
+          "name": "Epic Fight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5644675,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/EpicFight-19.5.18.jar",
+            "MD5": "9d0e5ef97bc36b6a465e85c6ce334b01"
+          }
+        },
+        {
+          "id": "vectorwing.farmersdelight:farmersdelight:1.19.2-1.2.3@jar",
+          "name": "Farmer's Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2754721,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/FarmersDelight-1.19.2-1.2.3.jar",
+            "MD5": "7cda552f6eb7d51e0fd0d01937d311fd"
+          }
+        },
+        {
+          "id": "malte0811.ferritecore:ferritecore:5.0.3@jar",
+          "name": "Ferrite Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 116824,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/ferritecore-5.0.3-forge.jar",
+            "MD5": "c556facc604bd4fc0824c4524c73b9b9"
+          }
+        },
+        {
+          "id": "dlovin.inventoryhud:inventoryhud:3.4.7@jar",
           "name": "Inventory HUD+(Forge edition)",
           "type": "ForgeMod",
           "artifact": {
-            "size": 223156,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/invhud.forge.1.20.1-3.4.18.jar",
-            "MD5": "8a666a10eb224ca3d9e7b221ba6784ee"
+            "size": 210503,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/invhud.forge.1.19-3.4.7.jar",
+            "MD5": "3e231c23ed8ffdb8fcd01d30cc90ae52"
           }
         },
         {
-          "id": "snownee.jade:jade:11.5.1@jar",
+          "id": "snownee.jade:jade:8.9.1@jar",
           "name": "Jade",
           "type": "ForgeMod",
           "artifact": {
-            "size": 512370,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/Jade-1.20.1-forge-11.5.1.jar",
-            "MD5": "babcbc99c457f7fcf5cf4e2c525e8f25"
+            "size": 428540,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/Jade-1.19.1-forge-8.9.1.jar",
+            "MD5": "673ca73a58e460499454d9bcd2f14844"
           }
         },
         {
-          "id": "mezz.jei:jei:15.2.0.27@jar",
+          "id": "mezz.jei:jei:11.6.0.1018@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1112891,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/jei-1.20.1-forge-15.2.0.27.jar",
-            "MD5": "24845f7c3a6ddc59e9dcf97a2d493afa"
+            "size": 1090468,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/jei-1.19.2-forge-11.6.0.1018.jar",
+            "MD5": "b470cd69dbce10060db0f51ec90dfb36"
           }
         },
         {
-          "id": "journeymap:journeymap:5.9.12@jar",
+          "id": "journeymap:journeymap:5.9.7@jar",
           "name": "Journeymap",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7102721,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/journeymap-1.20.1-5.9.12-forge.jar",
-            "MD5": "1971c342c285ef2a150277a19409c24a"
+            "size": 7091512,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/journeymap-1.19.2-5.9.7-forge.jar",
+            "MD5": "617122169f0ed16dd79cd48978d0e9c8"
           }
         },
         {
-          "id": "com.zephaniahnoah:shulkertooltip:1.13@jar",
+          "id": "com.gw:leaf:1.0@jar",
+          "name": "Leaf",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9774,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/Leaf-1.0.jar",
+            "MD5": "14eae19f938f210d17a51fc408ceed59"
+          }
+        },
+        {
+          "id": "com.mcwbridges.kikoz:mcwbridges:2.1.1@jar",
+          "name": "Macaw's Bridges",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 682195,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/mcw-bridges-2.1.1-mc1.19.2forge.jar",
+            "MD5": "aeeb17cc3ddd069bff9af484585f2202"
+          }
+        },
+        {
+          "id": "com.mcwdoors.kikoz:mcwdoors:1.1.0@jar",
+          "name": "Macaw's Doors",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1081340,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/mcw-doors-1.1.0forge-mc1.19.2.jar",
+            "MD5": "1559df0b417648fcfce18e3a476b299a"
+          }
+        },
+        {
+          "id": "com.mcwfences.kikoz:mcwfences:1.1.1@jar",
+          "name": "Macaw's Fences and Walls",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 448255,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/mcw-fences-1.1.1-mc1.19.2forge.jar",
+            "MD5": "8d1305802323aff8c24a7ec204322c51"
+          }
+        },
+        {
+          "id": "com.mcwroofs.kikoz:mcwroofs:2.2.4b@jar",
+          "name": "Macaw's Roofs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1681399,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/mcw-roofs-2.2.4b-mc1.19.2forge.jar",
+            "MD5": "fa0c787ae3ffa00086631524c4d8d9aa"
+          }
+        },
+        {
+          "id": "com.mcwwindows.kikoz:mcwwindows:2.2.1@jar",
+          "name": "Macaw's Windows",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1125803,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/mcw-windows-2.2.1-mc1.19.2forge.jar",
+            "MD5": "c4b56616735b846e72e94800e9b93fc5"
+          }
+        },
+        {
+          "id": "ca.fxco:memoryleakfix:1.0.0@jar",
+          "name": "Memory Leak Fix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 155597,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/memoryleakfix-forge-1.17+-1.0.0.jar",
+            "MD5": "ebca35f761de545a36629bb2fafc09c6"
+          }
+        },
+        {
+          "id": "org.embeddedt.modernfix.forge.init:modernfix:5.11.1+mc1.19.2@jar",
+          "name": "ModernFix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 700892,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/modernfix-forge-5.11.1+mc1.19.2.jar",
+            "MD5": "178775b2cc8c59f3f0feb10b2cc1f600"
+          }
+        },
+        {
+          "id": "net.stardustlabs:nullscape:1.2.2@jar",
+          "name": "Nullscape",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 367819,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/Nullscape_1.19.3_v1.2.2.jar",
+            "MD5": "e217b68369417e3dded050ed0be78683"
+          }
+        },
+        {
+          "id": "com.abdelaziz:pluto:0.0.9@jar",
+          "name": "Pluto",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 162595,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/pluto-mc1.19.2-0.0.9.jar",
+            "MD5": "ff5c03f3f7bdc37b18bfb8029da1b0f5"
+          }
+        },
+        {
+          "id": "com.zephaniahnoah:shulkertooltip:1.11.1@jar",
           "name": "Shulker Tooltip",
           "type": "ForgeMod",
           "artifact": {
-            "size": 11797,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/ShulkerTooltip-1.13.jar",
-            "MD5": "421c881313263fc5c5d861b0f9989762"
+            "size": 11561,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/ShulkerTooltip-1.11.1.jar",
+            "MD5": "734cc14ea8472caf971e93edb5a851c3"
           }
         },
         {
-          "id": "de.maxhenkel:voicechat:1.20.1-2.4.28@jar",
+          "id": "xyz.przemyk:simpleplanes:1.19.2-5.2.2@jar",
+          "name": "Simple Planes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 667977,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/simpleplanes-1.19.2-5.2.2.jar",
+            "MD5": "d527731f8429405c7f8b6531f347ca4c"
+          }
+        },
+        {
+          "id": "com.talhanation:smallships:2.0.0-a2.3@jar",
+          "name": "Small Ships",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2029095,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/smallships-forge-1.19.2-2.0.0-a2.3.jar",
+            "MD5": "9dfe59265413fdfe32286059934a90e0"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedbackpacks:1.19.2-3.19.5.989@jar",
+          "name": "Sophisticated Backpacks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 823173,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/sophisticatedbackpacks-1.19.2-3.19.5.989.jar",
+            "MD5": "b1bea818ff5c1ff20f86424d10372bb2"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedcore:1.19.2-0.5.111.525@jar",
+          "name": "Sophisticated Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1051990,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/sophisticatedcore-1.19.2-0.5.111.525.jar",
+            "MD5": "6bb93e0e4655aa71f1bbf7318f63feea"
+          }
+        },
+        {
+          "id": "ca.spottedleaf:starlight:1.1.1+forge.a3aea74@jar",
+          "name": "Starlight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 110720,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/starlight-1.1.1+forge.cf5b10b.jar",
+            "MD5": "56d04ee1894860ae595024e47a495ccb"
+          }
+        },
+        {
+          "id": "terrablender.core:terrablender:2.0.1.166@jar",
+          "name": "TerraBlender",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 96810,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/TerraBlender-forge-1.19.2-2.0.1.166.jar",
+            "MD5": "88e8f14b1f07309e4b8a605ad96087be"
+          }
+        },
+        {
+          "id": "net.stardustlabs:terralith:2.3.12@jar",
+          "name": "Terralith",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2990344,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/Terralith_1.19.3_v2.3.12.jar",
+            "MD5": "874142f5a20f0e6ea8fc1d406f4ee58c"
+          }
+        },
+        {
+          "id": "com.rolfmao:upgradedcore:1.19.2-4.1.0.1-release@jar",
+          "name": "Upgraded Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 41516,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/upgradedcore-1.19.2-4.1.0.1-release.jar",
+            "MD5": "f00fbe375eb27b3a7579983483a2fcfa"
+          }
+        },
+        {
+          "id": "com.rolfmao:upgradednetherite_ultimate:1.19.2-4.1.0.4-release@jar",
+          "name": "Upgraded Netherite : Ultimerite",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 179851,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/upgradednetherite_ultimate-1.19.2-4.1.0.4-release.jar",
+            "MD5": "e80d6bb39c8f936c50700a2e01529101"
+          }
+        },
+        {
+          "id": "com.rolfmao:upgradednetherite:1.19.2-5.1.0.9-release@jar",
+          "name": "Upgraded Netherite",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1248319,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/upgradednetherite-1.19.2-5.1.0.9-release.jar",
+            "MD5": "8a638c383420fc95e9634c04bd8597fd"
+          }
+        },
+        {
+          "id": "com.rolfmao:upgradedtools:1.19.2-2.1.0.2-release@jar",
+          "name": "Upgraded Tools",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 126808,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/upgradedtools-1.19.2-2.1.0.2-release.jar",
+            "MD5": "7e4ea638e8fffcc3ff4631d3edba97ea"
+          }
+        },
+        {
+          "id": "de.maxhenkel:voicechat:1.19.2-2.4.32@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7654111,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.4.28.jar",
-            "MD5": "112c51d3f202e40a06cd8bbcc71693c8"
+            "size": 8101393,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/voicechat-forge-1.19.2-2.4.32.jar",
+            "MD5": "759a74a4c856aafb12597a6f674cd8e7"
           }
         },
         {
-          "id": "generated.library:OptiFine_1.20.1_HD_U_I6_pre6_MOD:0.0.0@jar",
-          "name": "OptiFine_1.20.1_HD_U_I6_pre6_MOD",
+          "id": "com.laidbacksloth:wso16:1.1@jar",
+          "name": "Why stacks of 16?",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 49186,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/wso16-forge-1.1.jar",
+            "MD5": "44b47ffde66d74d4eacc62c6e29af765"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:yungsapi:1.19.2-Forge-3.8.10@jar",
+          "name": "YUNG's API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 293336,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/YungsApi-1.19.2-Forge-3.8.10.jar",
+            "MD5": "d49eb0504b00d99320588c681535dcc3"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterendisland:1.19.2-Forge-1.0@jar",
+          "name": "YUNG's Better End Island",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 636740,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/YungsBetterEndIsland-1.19.2-Forge-1.0.jar",
+            "MD5": "91f6a4f40c2e354a7bf11a63cd8cd622"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterjungletemples:1.19.2-Forge-1.0.1@jar",
+          "name": "YUNG's Better Jungle Temples",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1268117,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/YungsBetterJungleTemples-1.19.2-Forge-1.0.1.jar",
+            "MD5": "a53333f9c22cc4d9171f5d522c10ef76"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterfortresses:1.19.2-Forge-1.0.6@jar",
+          "name": "YUNG's Better Nether Fortresses",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 820449,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/YungsBetterNetherFortresses-1.19.2-Forge-1.0.6.jar",
+            "MD5": "6bd55703a87dd8493412bca8bbfc459e"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betteroceanmonuments:1.19.2-Forge-2.1.1@jar",
+          "name": "YUNG's Better Ocean Monuments",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1510053,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/YungsBetterOceanMonuments-1.19.2-Forge-2.1.1.jar",
+            "MD5": "4cd617cda5ec5159825b5af4be82bbdc"
+          }
+        },
+        {
+          "id": "generated.library:OptiFine_1.19.2_HD_U_I2_MOD:0.0.0@jar",
+          "name": "OptiFine_1.19.2_HD_U_I2_MOD",
           "type": "Library",
           "artifact": {
-            "size": 6638610,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6_pre6_MOD.jar",
-            "MD5": "6ecf3cd3fcf7a01c0bd839272855ec7a"
-          }
-        },
-        {
-          "id": "ComplementaryShaders_v4.7.2.zip",
-          "name": "ComplementaryShaders_v4.7.2.zip",
-          "type": "File",
-          "artifact": {
-            "size": 3456306,
-            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.20.1/files/shaderpacks/ComplementaryShaders_v4.7.2.zip",
-            "MD5": "9eab6a42fd4c81b8e0837aacab3f0435",
-            "path": "shaderpacks/ComplementaryShaders_v4.7.2.zip"
+            "size": 6421247,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/libraries/OptiFine_1.19.2_HD_U_I2_MOD.jar",
+            "MD5": "0b5af882fdc5f042cf2b21c6b0024272"
           }
         }
       ]

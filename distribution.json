@@ -503,6 +503,16 @@
           }
         },
         {
+          "id": "lekavar.lma:drinkbeer:1.0.3@jar",
+          "name": "Drink Beer Refill",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1520881,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/drinkbeer-refill-1.19.2-1.0.3.jar",
+            "MD5": "8d7af357ba193dfc5ca55c99ec16106d"
+          }
+        },
+        {
           "id": "net.aurelj:dungeons_arise:2.1.56-1.19.2@jar",
           "name": "When Dungeons Arise",
           "type": "ForgeMod",
@@ -700,6 +710,16 @@
             "size": 367819,
             "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/Nullscape_1.19.3_v1.2.2.jar",
             "MD5": "e217b68369417e3dded050ed0be78683"
+          }
+        },
+        {
+          "id": "com.tiviacz:pizzacraft:6.2.7@jar",
+          "name": "PizzaCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 524309,
+            "url": "https://github.com/Spotky1004P/Leaf-World-Distribution-2/raw/main/servers/leafworld2-1.19.2/forgemods/required/PizzaCraft-1.19.2-6.2.7.jar",
+            "MD5": "a5fbce0cbe15b08d2077b73f0bb1a0d0"
           }
         },
         {

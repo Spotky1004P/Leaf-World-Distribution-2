@@ -2,13 +2,13 @@
   "$schema": "file:///D:/Launcher_Comm/Leaf-World-2/Leaf-World-Distribution-2/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "리프월드 서버",
+    "name": "자명월드 서버",
     "description": "1.19.2 (Forge v43.3.2)",
     "icon": "https://cdn.discordapp.com/attachments/1119969183552253982/1153641270007300126/dad.png",
-    "address": "leafworld.kr",
+    "address": "jamyeong.kro.kr",
     "discord": {
-      "shortId": "리프월드 서버 (1.19.2)",
-      "largeImageText": "리프월드 서버 (1.19.2)",
+      "shortId": "자명월드 서버 (1.19.2)",
+      "largeImageText": "자명월드 서버 (1.19.2)",
       "largeImageKey": "icon"
     },
     "mainServer": true,
